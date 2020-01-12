@@ -1,0 +1,2 @@
+User-agent: Google
+Host: https://metanit.com
