@@ -1,7 +1,7 @@
 # site
-[id1]: 
-[id2]:
+[id1:]['a1) 
+[id2:][a2]
 # hed 1
 [text1][id1]:
 # hed 2
-[text2][id2]:
+[id2][text2]:
